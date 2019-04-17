@@ -1,0 +1,18 @@
+body {  
+    font-family: "Open Sundays", sans-serif;
+    font-size: 12p;
+    margin: 0;
+    line-height: 1.2rem
+}
+#example{
+    border: 1px solid gray;
+    background-color: white;
+    font-size: 14pt;
+    padding-left: 10pt;
+    padding-right: 10px;
+    min-height: 200px; 
+}
+button {
+    font-size: 14pt;
+    margin: 8px;
+}
